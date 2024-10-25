@@ -1,9 +1,4 @@
-# Android device tree for Android mainline (generic)
+# Android Device Tree for Redmi Note 13 Pro 4g (emerald)
 
-```
-#
-# Copyright (C) 2024 The LineageOS Project
-#
-# SPDX-License-Identifier: Apache-2.0
-#
-```
+![emerald](https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-13-pro-4g.jpg)
+
